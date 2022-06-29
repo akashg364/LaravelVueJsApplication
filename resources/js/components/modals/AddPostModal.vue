@@ -2,7 +2,7 @@
     <div class="container mt-5">
         <div v-if="loading"></div>
         <div v-else>
-            <b-modal id="modal-add-posts" ref="modal" title="Register to subscribe" @show="resetModal"
+            <b-modal id="modal-add-posts" ref="modal" title="Add post to subscribed website" @show="resetModal"
                 @hidden="resetModal" @ok="handleOk">
                 <form ref="form" @submit.stop.prevent="handleSubmit">
                     <b-form-group label="Title" label-for="title-input" invalid-feedback="title is required"
