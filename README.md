@@ -16,15 +16,15 @@ Then define APP_URL, MIX_API_URL, database, & smtp details with your local confi
 
 ## Database Setup
 For setting up database tables run below command:
--php artisan migrate
+- php artisan migrate
 
 This command will create dummy websites in website table.
--php artisan db:seed --class=WebsitesTableSeeder
+- php artisan db:seed --class=WebsitesTableSeeder
 
 ## Laravel Setup
 
 In project root dorectory run below command to install all laravel dependencies:
--composer install
+- composer install
 
 ## VueJs Setup
 
