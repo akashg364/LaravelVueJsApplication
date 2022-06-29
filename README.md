@@ -2,11 +2,11 @@
 <a href="https://github.com/vuejs" target="_blank"><img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" width="100" height="100"></a>
 </p>
 <p>
-<img src="./public/images/ss1.PNG" width="300" />
-<img src="./public/images/ss2.PNG" width="300" />
-<img src="./public/images/ss3.PNG" width="300" />
-<img src="./public/images/ss4.PNG" width="300" />
-<img src="./public/images/ss5.PNG" width="300" />
+<img src="./public/images/ss1.PNG" width="150" />
+<img src="./public/images/ss2.PNG" width="150" />
+<img src="./public/images/ss3.PNG" width="150" />
+<img src="./public/images/ss4.PNG" width="150" />
+<img src="./public/images/ss5.PNG" width="150" />
 </p>
 
 ## About Project
